@@ -6,6 +6,7 @@
 **参考文献**
 [本文的参考文档1](https://doc.mrdoc.pro/doc/45555/)
 [本文的参考文档2](https://yang-xijie.github.io/LECTURE/Markdown/markdown/)
+[本文的参考文档3](https://blog.cxplay.org/works/vscode-to-markdown-editor/#github-theme)
 
 **面向对象与注意事项**
 需要进行合作编程开发的同学（主要）
